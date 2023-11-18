@@ -1,12 +1,19 @@
 # Your-Device
-Android application 👩‍💻
+>Android application 👩‍💻
 
-🔥 Your Device is an Android application using the concept of #RecyclerView  #Adapter  #Firebase #Retrofit # Dummy json placeholder(API) 🔥
+Your Device is an Android application using the concept of #RecyclerView  #Adapter  #Firebase #Retrofit # Dummy json placeholder(API) 
 
-Add these dependencies in the Gradle build(add latest version)
-1.   implementation 'com.squareup.retrofit2:retrofit:2.9.0'
-2.   implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
-3.   implementation 'com.squareup.picasso:picasso:2.8'
+>Add these dependencies in the Gradle build(add latest version)
+
+       implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+       implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+       implementation 'com.squareup.picasso:picasso:2.8'
+
+>Check the latest version of picasso from https://github.com/square/picasso
+
+>API used in the App are from site https://dummyjson.com/
+
+>App Review:
 
 
    ![signupimg](https://github.com/Padmaja7664/Your-Device/assets/96992366/921b82df-7a96-4a99-8a3f-e037e763a696)        ![signinimg](https://github.com/Padmaja7664/Your-Device/assets/96992366/9c77dda4-94db-4106-b5ee-a6288dc7d5a5)      ![navimg](https://github.com/Padmaja7664/Your-Device/assets/96992366/da057f98-0577-4653-b51e-921389c2d43e)
